@@ -4,7 +4,7 @@ import java.util.Map;
 /**
  * File: Map.java
  * Deskripsi: program yang digunakan untuk menampilkan key dan value dari sebuah Map,
-    dimana key merupakan NIM dan value merupakan nama mahasiswa, menggunakan ekspresi lambda
+    dimana key itu merupakan NIM dan value merupakan nama mahasiswa, menggunakan ekspresi lambda
  */
 public class LambdaMap {
 
